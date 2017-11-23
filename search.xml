@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2017%2F11%2F23%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment var gitment = new Gitment({ //id: '页面 ID', // 可选。默认为 location.href owner: 'dalianghe', repo: 'dalianghe.github.io', oauth: { client_id: '0d0852914f5f187df57f', client_secret: 'b91ced823ac9d8a9c7f8e8fbd0c83856c6101ddc', }, }) gitment.render('container')]]></content>
+  </entry>
+</search>
